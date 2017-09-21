@@ -1,0 +1,11 @@
+{
+  "name": "loot-ml-loader",
+  "version": "1.0.0",
+  "description": "A WebPack loader for LootML",
+  "main": "index.js",
+  "author": "Robert Grindeland <rgrindeland@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "loot-ml": "^0.1.0"
+  }
+}
